@@ -5,9 +5,9 @@ metadata:
 spec:
   # Add fields here
   markdown: |
-    # My First Presentation
+    "# My First Presentation
     ---
     ## Test slide
 
     * Test
-    ---
+    ---""
