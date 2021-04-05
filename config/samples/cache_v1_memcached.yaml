@@ -1,0 +1,13 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Memcached
+metadata:
+  name: memcached-trial
+spec:
+  # Add fields here
+  markdown: |
+    # My First Presentation
+    ---
+    ## Test slide
+
+    * Test
+    ---
